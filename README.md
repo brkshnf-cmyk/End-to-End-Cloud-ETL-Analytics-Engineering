@@ -23,7 +23,8 @@ The goal is to simulate a real‑world enterprise pipeline, transforming raw dat
 
 ## 🏗️ Architecture Diagram
 
-*(Insert exported diagram here.)*
+*<img width="4124" height="888" alt="image" src="https://github.com/user-attachments/assets/4836513c-aa62-4171-b206-d2ec7dad9ed9" />
+*
 
 ## 🚀 End‑to‑End Workflow
 
