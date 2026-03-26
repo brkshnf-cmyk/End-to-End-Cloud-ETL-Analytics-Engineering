@@ -1,5 +1,2 @@
-mkdir data data/raw
-mkdir sql sql/infrastructure sql/bronze sql/silver sql/silver/Transform sql/gold
-mkdir powerbi
-mkdir docs
+
 
