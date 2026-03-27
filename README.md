@@ -1,7 +1,6 @@
 # End-to-End-Cloud-ETL-Analytics-Engineering
 A complete Azure‑based data engineering and analytics solution showcasing cloud ingestion, ETL orchestration, SQL transformations, dimensional modeling, and Power BI analytics. Demonstrates end‑to‑end skills across ADLS, ADF, Azure SQL, and business insight generation.
 
-
 ---
 
 # 📦 Brazilian E‑Commerce Analytics Pipeline (Azure + SQL + Power BI)
@@ -119,7 +118,7 @@ Power BI dashboards include:
 
 ## 📊 Dataset Source
 Brazilian E‑Commerce Public Dataset — Kaggle  
-
+*(URL intentionally omitted.)*
 
 
 ---
