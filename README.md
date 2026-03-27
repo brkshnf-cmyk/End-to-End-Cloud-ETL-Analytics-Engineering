@@ -185,7 +185,7 @@ Olist should focus on expanding inventory and seller partnerships in top‑perfo
 ## 📉 6. Review Score Distribution Is Polarized
 
 - Customers tend to give either 5 stars (very satisfied) or 1 star (very dissatisfied).  
-- Customers who leave higher ratings typically write longer, more detailed positive comments, while dissatisfied customers tend to shorter complaints.
+- Customers who leave higher ratings tend to write shorter positive comments, while dissatisfied customers write longer, more detailed complaints.
 This reflects a common pattern in e‑commerce sentiment behavior.
 
 **Business Impact:**  
