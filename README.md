@@ -118,7 +118,6 @@ Power BI dashboards include:
 
 ## 📊 Dataset Source
 Brazilian E‑Commerce Public Dataset — Kaggle  
-*(URL intentionally omitted.)*
 
 
 ---
