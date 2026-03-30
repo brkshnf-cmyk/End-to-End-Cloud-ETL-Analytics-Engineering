@@ -79,22 +79,22 @@ Power BI dashboards include:
 ## 📁 Repository Structure
 
 ```
-/data
-   /raw — Original raw CSV files from Kaggle.
+/raw — Original raw CSV files from Kaggle.
 
-/sql
-   /infrastructure — SQL scripts for Azure SQL access and firewall/auth setup.
+/scripts
+   /infrastructure/security — SQL scripts for Azure SQL access and firewall/auth setup.
    /bronze — SQL scripts creating Bronze layer tables (raw schema).
    /silver — SQL scripts creating Silver layer tables (cleaned data).
       /Transform — Queries used to clean and transform Bronze → Silver.
    /gold — SQL scripts for Gold layer dimensional model (tables + views).
 
 /powerbi
-   dashboard.pbix — Power BI report and visuals.
+   Brazil_visual.pbix — Power BI report and visuals.
+   Brazil_visual.pdf — Power BI report and visuals.
 
-/docs
-   architecture-diagram.png — System architecture illustration.
-   data-dictionary.md — Table and field definitions.
+/docmentation
+   Gold_BI Ready Data Model.png — System architecture illustration.
+   Raw Data Model.png — Table and field definitions.
 
 ```
 
